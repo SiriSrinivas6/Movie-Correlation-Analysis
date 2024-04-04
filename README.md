@@ -22,7 +22,7 @@ The project involves collecting data from a CSV file using Python libraries such
 
 ![1](https://github.com/SiriSrinivas6/Movie-Correlation-Analysis/blob/46584e21da7245423209d6feba418d6c7208bc39/1.png)
 
-![2]()
+![2](https://github.com/SiriSrinivas6/Movie-Correlation-Analysis/blob/6a1c29d3c50e644d47a397730e56958689296704/2.png)
 
 - **Company Analysis**: Investigated the involvement of production companies in the movie industry to understand their impact on movie performance and success.
 
