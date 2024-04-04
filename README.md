@@ -20,7 +20,7 @@ The project involves collecting data from a CSV file using Python libraries such
 
 - **Visualization**: Plotted budget vs gross using Seaborn to visualize the relationship between these variables. Explored other visualizations to gain further insights into the data.
 
-![1]()
+![1](https://github.com/SiriSrinivas6/Movie-Correlation-Analysis/blob/46584e21da7245423209d6feba418d6c7208bc39/1.png)
 
 ![2]()
 
